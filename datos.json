@@ -1,0 +1,463 @@
+[
+  {
+    "sede": "Medellín - Sede principal",
+    "ubicacion": "Carrera 48 No. 7–151, El Poblado - Antioquia",
+    "contacto": "Celular: 300 712 46 70, PBX: 604 444 7654 - 604 319 7900"
+  },
+  {
+    "area": "Biblioteca Sede Medellin",
+    "ubicacion": "Bloque P31 - 110 (Primer piso)",
+    "horarios": "Lunes a Viernes de 7:30 a.m. a 8:30 p.m. y Sabados de 8:00 a.m. a 2:00 p.m.",
+    "contacto": "biblioteca@elpoli.edu.co / (604) 444-76-54 ext 4124",
+    "tramites": [
+      "Préstamo de libros y préstamo interbibliotecario",
+      "Acceso a bases de datos",
+      "Reservas de salas de estudio y Aula Virtual",
+      "Reserva y renovación de material",
+      "Formación y capacitación (inducción y formación de usuarios)",
+      "Divulgación de recursos",
+      "Elaboración de bibliografías",
+      "Solicitud de nuevo material bibliográfico"
+    ],
+    "descripcion": "Encargada de la actualización, manejo y gestión de las diferentes colecciones, al igual que de la descripción bibliográfica, análisis de contenidos, evaluación y mantenimiento de colecciones (físicas y electrónicas), inventarios y descartes del material libro, soportes ópticos y audiovisual."
+  },
+  {
+    "area": "Poli Virtual",
+    "ubicacion": "Bloque P40 - Oficina 603 (Sexto piso)",
+    "horarios": "Lunes a Viernes de 7:30 a.m. a 8:30 p.m. y Sabados de 8:00 a.m. a 2:00 p.m.",
+    "enlace": "https://elpolivirtual.elpoli.edu.co/login/index.php",
+    "contacto": "polivirtual@elpoli.edu.co",
+    "preguntas": [
+      {
+        "pregunta": "¿Cómo ingresar a Polivirtual?",
+        "repuesta": "Accediendo al enlace: https://elpolivirtual.elpoli.edu.co/login/index.php . Si eres docente o estudiante de la Institución tus datos de acceso serán los mismos datos que te entregan para acceder al Portal Académico UXXI. USUARIO: El nombre de tu correo institucional. Es decir, si tu correo institucional es juan_gomez123@elpoli.edu.co tu usuario será juan_gomez123. CONTRASEÑA: Si no recuerdas la contraseña con la que accedes al portal académico que es la misma que usaras en Polivirtual, puedes restablecerla a través de este enlace: https://uxxiportal.elpoli.edu.co/CambioPasswordApp/ "
+      },
+      {
+        "pregunta": "Dudas respecto al correo electrónico Institucional",
+        "respuesta": "En Polivirtual somos los encargados de la administración de los cursos virtuales de la institución y de algunas innovaciones tecnológicas. Para dudas respecto a tu correo institucional debes escribir a jarua@elpoli.edu.co."
+      },
+      {
+        "pregunta": "¿Qué hacer si a un estudiante le falta una asignatura virtual?",
+        "respuesta": ["Si un estudiante nos comunica que no puede visualizar una asignatura los pasos a seguir son:",
+                        "• Solicitar el nombre completo del estudiante",
+                        "• Solicitar el número de cédula del estudiante",
+                        "• Solicitar una copia reciente de su horario académico",
+                        "• Solicitar el nombre completo de la asignatura",
+                        "• Solicitar el nombre completo del profesor",
+                        "• Solicitar el correo electrónico del docente",
+                      "Con estos datos nos podemos dirigir a la plataforma virtual, y por medio del correo electrónico o el nombre del docente, buscar el curso solicitado y matricular al estudiante."
+        ]
+      },
+      {
+        "pregunta": "¿Qué hacer si a un docente le falta una asignatura virtual?",
+        "respuesta": ["En este caso le debemos pedir al docente los siguientes datos:",
+                        "• Nombre completo.",
+                        "• Número de documento.",
+                        "• Código de la asignatura el cual está compuesto por 3 letras y 5 dígitos. Ejemplo: ADM00232, EFD02341… ",
+                        "• Número de grupo.",
+                      "Con estos datos podremos identificar entonces el inconveniente que se presenta y de ser necesario, habilitar el curso faltante."
+        ]
+      }
+    ]
+  },
+  {
+    "Programas academicos": [
+      {
+        "Pregrado": [
+          {
+            "Tecnicos": [
+              {
+                "Facultad de Educacion Fisica Recreacion y Deporte": [
+                  "Tecnica Profesional en Masoterapia"
+                ]
+              },
+              {
+                "Facultad de Ingenieria": [
+                  "Tecnica Profesional en Programacion De Sistemas de Informacion (por ciclos propedeuticos)"
+                ]
+              }
+            ]
+          },
+          {
+            "Tecnologias": [
+              {
+                "Facultad de Administracion": [
+                  "Tecnología en Costos y Auditoría",
+                  "Tecnología en Gestión Aeroportuaria",
+                  "Tecnología en Gestión Turística",
+                  "Tecnología en Gestión Pública",
+                  "Tecnología Industrial",
+                  "Tecnología en Gestión Logística Integral - Apartadó",
+                  "Tecnología en Gestión Logística Integral"
+                ]
+              },
+              {
+                "Facultad de Ciencias Agrarias": [
+                  "Tecnología Agropecuaria"
+                ]
+              },
+              {
+                "Facultad de Ciencias y Educacion": [
+                  "Tecnología en Química Industrial y de Laboratorio"
+                ]
+              },
+              {
+                "Facultad de Comunicacion Audiovisual": [
+                  "Tecnología en Producción de Eventos",
+                  "Tecnología en Producción Audiovisual"
+                ]
+              },
+              {
+                "Facultad de Ingenieria": [
+                  "Tecnología en Construcciones Civiles",
+                  "Tecnología en Construcciones Civiles - Rionegro",
+                  "Tecnología en Gestión de Infraestructura de Telecomunicaciones",
+                  "Tecnología en Instrumentación Industrial",
+                  "Tecnología en Gestión de la Seguridad y Salud en el Trabajo",
+                  "Tecnología en Desarrollo de Software - Apartadó",
+                  "Tecnología en Sistematización de Datos"
+                ]
+              }
+            ]
+          },
+          {
+            "Profesionales": [
+              {
+                "Facultad de Administracion": [
+                  "Administración Pública",
+                  "Contaduría Pública",
+                  "Ingeniería de Productividad y Calidad"
+                ]
+              },
+              {
+                "Facultad de Ciencias Agrarias": [
+                  "Administración de Empresas Agropecuarias",
+                  "Ingeniería Agropecuaria"
+                ]
+              },
+              {
+                "Facultad de Ciencias y Educacion": [
+                  "Licenciatura en Ciencias Sociales",
+                  "Licenciatura en Ciencias Naturales",
+                  "Desarrollo Territorial y Construcción de Paz"
+                ]
+              },
+              {
+                "Facultad de Comunicacion Audiovisual": [
+                  "Comunicación Audiovisual"
+                ]
+              },
+              {
+                "Facultad de Educacion Fisica Recreacion y Deporte": [
+                  "Licenciatura en Educación Física, Recreación y Deportes",
+                  "Profesional en Deporte"
+                ]
+              },
+              {
+                "Facultad de Ingenieria": [
+                  "Administración de la Seguridad y Salud en el Trabajo",
+                  "Ingeniería en Ciencia de Datos",
+                  "Ingeniería Civil",
+                  "Ingeniería en Seguridad y Salud en el Trabajo",
+                  "Ingeniería en Automatización y Control",
+                  "Ingeniería Informática"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Posgrado": [
+          {
+            "Especializaciones": [
+              {
+                "Facultad de Administracion": [
+                  "Especialización en Finanzas Públicas",
+                  "Especialización en Gerencia Financiera",
+                  "Especialización en Gerencia Integral",
+                  "Especialización en Logística y Gestión de Cadenas de Abastecimiento"
+                ]
+              },
+              {
+                "Facultad de Ciencias Agrarias": [
+                  "Especialización en la Agroindustria del Cannabis",
+                  "Especialización en Biotecnología de la Reproducción Animal",
+                  "Especialización en Gerencia de Agronegocios"
+                ]
+              },
+              {
+                "Facultad de Comunicacion Audiovisual": [
+                  "Especialización en Storytelling"
+                ]
+              },
+              {
+                "Facultad de Educación Física Recreación y Deporte": [
+                  "Especialización en Gestión de Escenarios Deportivos, Recreativos y de Actividad Física"
+                ]
+              },
+              {
+                "Facultad de Ingenieria": [
+                  "Especialización en Higiene Ocupacional y Ambiental",
+                  "Especialización en Recursos Hídricos",
+                  "Especialización en Seguridad en el Trabajo",
+                  "Especialización en Analítica de Datos"
+                ]
+              }
+            ]
+          },
+          {
+            "Maestrias": [
+              {
+                "Facultad de Administración": [
+                  "Maestría en Administración"
+                ]
+              },
+              {
+                "Facultad de Ciencias Agrarias": [
+                  "Maestría en Gerencia de Empresas Pecuarias",
+                  "Maestría en Sistemas Agrarios Sostenibles"
+                ]
+              },
+              {
+                "Facultad de Educación Física Recreación y Deporte": [
+                  "Maestría en Gerencia de Organizaciones Deportivas y Recreativas",
+                  "Maestría en Didácticas de la Educación Física, la Recreación y el Deporte"
+                ]
+              },
+              {
+                "Facultad de Ingeniería": [
+                  "Maestría en Ingeniería"
+                ]
+              }
+            ]
+          },
+          {
+            "Doctorados": [
+              {
+                "Facultad de Ingenieria": [
+                  "Doctorado en Ingeniería e Innovación Tecnológica"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "area": "Coordinación de Admisiones y Programación Académica",
+    "ubicacion": "Bloque P31 - 103 (Primer piso)",
+    "horarios": "Lunes a Viernes de 7:30 a. m. a 5:35 p. m.",
+    "tramites": [
+      {
+        "tipo": "Información relativa a informes, PQRS, homologaciones de asignaturas, reconocimientos y transferencias internas.",
+        "contacto": "admisiones@elpoli.edu.co"
+      },
+      {
+        "tipo": "Información relativa al proceso de inscripción y admisión para aspirantes nuevos, reingresos, graduados de la Institución y transferencias externas.",
+        "contacto": "aspirantes@elpoli.edu.co"
+      },
+      {
+        "tipo": "Información relativa al proceso de matrícula y trámites relativos al usuario y clave del portal académico.",
+        "contacto": "matriculas@elpoli.edu.co"
+      },
+      {
+        "tipo": "Información relativa al proceso de grados. Solicitud de duplicados de actas y diplomas de grado.",
+        "contacto": "solicitudgrados@elpoli.edu.co"
+      },
+      {
+        "tipo": "Información relativa a la expedición de Certificados Académicos u otro tipo de certificados.",
+        "contacto": "certificadosacademicos@elpoli.edu.co"
+      },
+      {
+        "tipo": "Información relativa a la verificación de títulos académicos por parte de las empresas e instituciones públicas o privadas.",
+        "contacto": "verificacionesacademicas@elpoli.edu.co"
+      },
+      {
+        "tipo": "Soporte para la APP e información para la verificación de títulos electrónicos.",
+        "contacto": "tituloseguro@elpoli.edu.co"
+      },
+      {
+        "tipo": "Información relativa al proceso de carnetización.",
+        "contacto": "carnetizacion@elpoli.edu.co"
+      }
+    ],
+    "descripcion": "Es la dependencia encargada de garantizar la efectividad del proceso de inscripción, admisión, matrícula y registro académico de notas, graduación y programación académica de la Institución."
+  },
+  {
+    "Facultades": [
+      {
+        "Facultad de Administración": {
+          "ubicación": "Bloque P36 - Oficina 203",
+          "horario": "Lunes a viernes 8:00 a. m. a 12:00 m. y de 1:30 p. m. a 5:30 p. m.",
+          "contacto": "fadministracion@elpoli.edu.co / (604) 444-76-54 ext 4138",
+          "información": "La Facultad de Administración del Politécnico Colombiano Jaime Isaza Cadavid busca ser un vínculo común para la formación integral de estudiantes en liderazgo empresarial, promoviendo el desarrollo biopsicosocial, espiritual y material en Antioquia y Colombia. Su misión incluye reelaborar flexiblemente nuevas concepciones de desarrollo social, formar estudiantes con claros criterios éticos y sólida fundamentación científica, fomentar la ciencia y la tecnología, y extender la educación superior a zonas marginadas sin afectar la calidad académica. Entre sus objetivos específicos destacan: instaurar una educación basada en el contacto real con la comunidad, diseñar currículos que respondan a sus necesidades, diseminar el saber para fortalecer la función educativa, poner los recursos al servicio de problemas colectivos, integrar investigación con formación y currículos, convertir la investigación en una herramienta para mejorar la enseñanza y fomentar en docentes y estudiantes actitudes positivas hacia la investigación en ciencias, tecnología, filosofía, humanidades y artes.",
+          "áreas de la facultad": {
+            "decanatura": {
+              "decano": {
+                "nombre": "Eudis Eugenia López Gómez",
+                "contacto": "eelopez@elpoli.edu.co"
+              },
+              "auxiliar administrativo": {
+                "nombre": "Diana Carolina Palacio Builes",
+                "contacto": "fadministracion@elpoli.edu.co"
+              }
+            },
+            "Coordinación de Programas Profesionales": {
+              "coordinador": {
+                "nombre": "Hernán Dario Osorio Cardona",
+                "contacto": "hdosorio@elpoli.edu.co"
+              },
+              "auxiliar administrativo": {
+                "nombre": "Jhon Fredy Usme Londoño",
+                "contacto": "faprofesional@elpoli.edu.co / jfusme@elpoli.edu.co"
+              }
+            },
+            "Coordinación de Programas Tecnológicos": {
+              "coordinador": {
+                "nombre": "William Mario Martínez",
+                "contacto": "wmmartinez@elpoli.edu.co"
+              }
+            },
+            "Coordinación de Asuntos Académicos": {
+              "coordinador": {
+                "nombre": "N/A",
+                "contacto": "N/A"
+              },
+              "auxiliar administrativo": {
+                "nombre": "Angélica María Muñoz Velásquez",
+                "contacto": "faasuntos@elpoli.edu.co / angelica_munoz25231@elpoli.edu.co"
+              }
+            }
+          }
+        }
+      },
+      {
+        "Facultad de Ciencias Agrarias": {
+          "ubicación": "Bloque P38 - Oficina 115",
+          "horario": "Lunes a viernes 8:00 a. m. a 12:00 m. y de 1:30 p. m. a 5:30 p. m.",
+          "contacto": "eagrarias@elpoli.edu.co / (604) 444-76-54 ext 4109",
+          "información": "La Facultad de Ciencias Agrarias del Politécnico Colombiano Jaime Isaza Cadavid tiene una vocación tecnológica que ofrece educación integral en programas de pregrado y posgrado, apoyados en gestión del conocimiento científico e innovación, para contribuir al desarrollo económico, social, ambiental e institucional del sector agrario, tanto a nivel nacional como internacional. Se proyecta como líder en la formación científica, tecnológica y humanística de profesionales del área. Su objetivo general es formar una comunidad académica destacada en calidad, investigación y compromiso humano, enfocada en liderar procesos sostenibles en el campo agrario. Entre sus objetivos específicos están: formar profesionales competentes en producción agrícola, pecuaria y agroindustrial; fortalecer la integración con el sector agrario; fomentar la calidad técnica, científica y humana; impulsar el trabajo interdisciplinario; promover la cultura del agronegocio y el emprendimiento; y asegurar la calidad educativa mediante autoevaluación permanente.",
+          "áreas de la facultad": {
+            "decanatura": {
+              "decano": {
+                "nombre": "Tomás Antonio Madrid Garces",
+                "contacto": "temadrid@elpoli.edu.co"
+              },
+              "auxiliar administrativo": {
+                "nombre": "Luisa Fernanda Sánchez Londoño",
+                "contacto": "luisa_sanchez86192@elpoli.edu.co"
+              }
+            },
+            "Coordinación de Programas": {
+              "coordinador": {
+                "nombre": "Juan Carlos Gómez Mesa",
+                "contacto": "jcgomez@elpoli.edu.co"
+              },
+              "técnico administrativo": {
+                "nombre": "Mateo Carvajal Maya",
+                "contacto": "mateocarvajal@elpoli.edu.co"
+              },
+              "auxiliar administrativo": {
+                "nombre": "Luz Marleny Ordoñez Arango",
+                "contacto": "lmordonez@elpoli.edu.co"
+              }
+            }
+          }
+        }
+      },
+      {
+        "Facultad de Ciencias y Educación": {
+          "ubicación": "Bloque P59 - Oficina 202",
+          "horario": "Lunes a viernes 8:00 a. m. a 12:00 m. y de 1:30 p. m. a 5:30 p. m.",
+          "contacto": "fbasicas@elpoli.edu.co / (604) 444-76-54 ext 4196",
+          "información": "La Facultad de Ciencias y Educación del Politécnico Colombiano Jaime Isaza Cadavid integra docencia, investigación y extensión para formar profesionales éticos y comprometidos socialmente. A través del Centro de Innovación en Políticas de Aprendizaje (CIPA) y la plataforma Prometeo, impulsa la educación inclusiva, cerrando brechas sociales y garantizando acceso a comunidades vulnerables. Espacios como el Aula Taller de Ciencias Básicas, el Laboratorio de Ciencias Sociales, la Unidad de Paz y Reconciliación, y el Centro de Comunicación y Lenguaje enriquecen la experiencia académica. La Facultad se destaca por su calidad, innovación pedagógica y compromiso con el desarrollo humano, consolidándose como referente en educación superior y transformación social en la región y el país.",
+          "áreas de la facultad": {
+            "decanatura": {
+              "decano": {
+                "nombre": "Oswaldo Plata Pineda",
+                "contacto": "ojplata@elpoli.edu.co"
+              },
+              "profesional administrativo": {
+                "nombre": "Doris Matilde Marin Toro",
+                "contacto": "dmmarin@elpoli.edu.co"
+              },
+              "auxiliar administrativo": {
+                "nombre": "Camila Gómez Cuervo",
+                "contacto": "cgomez@elpoli.edu.co"
+              }
+            },
+            "Coordinación de Ciencias Básicas": {
+              "coordinador": {
+                "nombre": "Dora Enid Zabala Mendoza",
+                "contacto": "dezabala@elpoli.edu.co"
+              },
+              "profesional administrativo": {
+                "nombre": "Edith Pescador Trejos",
+                "contacto": "epescador@elpoli.edu.co"
+              },
+              "auxiliar administrativo": {
+                "nombre": "Sebastián Toro Hurtado",
+                "contacto": "fbasicas@elpoli.edu.co / storo@elpoli.edu.co"
+              }
+            },
+            "Aula Taller de Ciencias": {
+              "tecnico administrativo": {
+                "nombre": "Olga Cecilia Díaz Hoyos",
+                "contacto": "aulataller@elpoli.edu.co / ocdiaz@elpoli.edu.co"
+              },
+              "auxiliar administrativo": {
+                "nombre": "Luis Horacio Aldana Arboleda",
+                "contacto": "lhaldana@elpoli.edu.co"
+              }
+            },
+            "Coordinación de Ciencias Sociales": {
+              "coordinador": {
+                "nombre": "Marina Isabel Marin Tejada",
+                "contacto": "mimarin@elpoli.edu.co"
+              },
+              "auxiliar administrativo": {
+                "nombre": "Claudia Andrea Zapata Zuleta",
+                "contacto": "fbsociales@elpoli.edu.co / cazapata@elpoli.edu.co"
+              }
+            },
+            "Centro de Comunicación y Lenguaje": {
+              "auxiliar administrativo": {
+                "nombre": "Sadoc Enrique de León Mendez",
+                "contacto": "ccl@elpoli.edu.co / sedeleon@elpoli.edu.co"
+              }
+            }
+          }
+        }
+      },
+      {
+        "Facultad de Comunicación Audiovisual": {
+          "ubicación": "Bloque P34 - Oficina 208",
+          "horario": "Lunes a viernes 8:00 a. m. a 12:00 m. y de 1:30 p. m. a 5:30 p. m.",
+          "contacto": "faudiovisual@elpoli.edu.co / (604) 444-76-54 ext 4112",
+          "información": "",
+          "áreas de la facultad": {}
+        }
+      },
+      {
+        "Facultad de Educación Física, Recreación y Deporte": {
+          "ubicación": "",
+          "horario": "",
+          "contacto": "",
+          "información": "",
+          "áreas de la facultad": {}
+        }
+      },
+      {
+        "Facultad de Ingeniería": {
+          "ubicación": "",
+          "horario": "",
+          "contacto": "",
+          "información": "",
+          "áreas de la facultad": {}
+        }
+      }
+    ]
+  }
+]
