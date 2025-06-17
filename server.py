@@ -18,7 +18,7 @@ app.add_middleware(
 )
 
 # Configuración del cliente (IA Deepseek) de LM Studio
-client = OpenAI(base_url="https://accordingly-negotiations-lcd-wicked.trycloudflare.com/v1", api_key="meta-llama-3.1-8b-instruct-128k")
+client = OpenAI(base_url="https://volume-arms-distributor-amanda.trycloudflare.com/v1", api_key="meta-llama-3.1-8b-instruct-128k")
 
 #  Cargar dataset (Información o BD de la universidad)
 def cargar_dataset():
